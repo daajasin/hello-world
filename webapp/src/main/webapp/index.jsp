@@ -13,13 +13,14 @@
 
 /* Add padding to containers */
 .container {
+  width: 40%;
   padding: 16px;
   font-family: Arial;
 }
 
 /* Full-width input fields */
 input[type=text], input[type=password] {
-  width: 40%;
+  width: 100%;
   padding: 15px;
   margin: 5px 0 22px 0;
   display: inline-block;
