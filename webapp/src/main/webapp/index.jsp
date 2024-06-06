@@ -19,7 +19,7 @@
 
 /* Full-width input fields */
 input[type=text], input[type=password] {
-  width: 100%;
+  width: 40%;
   padding: 15px;
   margin: 5px 0 22px 0;
   display: inline-block;
