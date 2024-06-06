@@ -13,7 +13,8 @@
 
 /* Add padding to containers */
 .container {
-  width: 40%;
+  max-width: 40%;
+  margin: auto;
   padding: 16px;
   font-family: Arial;
 }
