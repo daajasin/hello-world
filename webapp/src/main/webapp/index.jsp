@@ -8,9 +8,13 @@
 
 * {box-sizing: border-box}
 
+
+
+
 /* Add padding to containers */
 .container {
   padding: 16px;
+  font-family: Arial;
 }
 
 /* Full-width input fields */
